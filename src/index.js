@@ -4,6 +4,9 @@ import './index.css';
 import * as serviceWorker from './serviceWorker';
 
 // const letters = ['a','b','c','d','e','f','g','h','i','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'];
+
+// Random Comment
+
 let count = 0;
 class Hangman extends React.Component {
     constructor() {
